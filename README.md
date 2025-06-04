@@ -11,10 +11,11 @@
 ## 🛠️ 快速开始
 
 ### 1️⃣ 申请 DeepSeek API
+（点击跳转，后文同此操作）
 [![DeepSeek](https://img.shields.io/badge/Get-DeepSeek%20API%20Key-blue)](https://www.deepseek.com/)
 
 ```bash
-API 端点: https://api.deepseek.com/v1/chat/completions
+APIHost: https://api.deepseek.com/v1/chat/completions
 ```
 
 ### 2️⃣ 创建 GitHub 仓库
