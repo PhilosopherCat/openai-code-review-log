@@ -11,8 +11,8 @@
 ## 🛠️ 快速开始
 
 ### 1️⃣ 申请 DeepSeek API
-（点击跳转，后文同此操作）
 [![DeepSeek](https://img.shields.io/badge/Get-DeepSeek%20API%20Key-blue)](https://www.deepseek.com/)
+（点击跳转，后文同此操作）
 
 ```bash
 APIHost: https://api.deepseek.com/v1/chat/completions
