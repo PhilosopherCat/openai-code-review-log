@@ -1,4 +1,4 @@
-# 🚀 AI 代码审查系统 - 基于 DeepSeek 的自动化工作流
+# 🚀 OpenAI代码自动评审系统 - 基于 DeepSeek 的自动化工作流
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/yourusername/reponame/main.yml?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue)
