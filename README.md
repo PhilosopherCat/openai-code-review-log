@@ -7,6 +7,8 @@
 ## 🌟 项目概述
 
 本系统通过 GitHub Actions + DeepSeek AI + 微信公众号通知构建了一套完整的自动化代码审查流水线，能够在代码提交时自动触发 AI 代码审查并将结果通过微信公众号推送。
+<img width="928" height="460" alt="image" src="https://github.com/user-attachments/assets/2ff9008d-66e2-4020-9d8c-1fd4f3ec5a99" />
+
 
 ## 🛠️ 快速开始
 
