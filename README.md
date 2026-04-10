@@ -30,7 +30,7 @@ APIHost: https://api.deepseek.com/v1/chat/completions
 [![GitHub Token](https://img.shields.io/badge/Generate-GitHub%20Token-lightgrey)](https://github.com/settings/tokens)
 
 ### 4️⃣ 配置微信公众号
-[![WeChat]((https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login))
+[微信开发者测试号平台](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login)
 
 消息模板示例：
 ```
