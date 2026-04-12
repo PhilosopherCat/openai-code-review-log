@@ -19,6 +19,8 @@
 ```bash
 APIHost: https://api.deepseek.com/v1/chat/completions
 ```
+<img width="1655" height="846" alt="image" src="https://github.com/user-attachments/assets/0ec87fa0-dde7-43ef-8d04-5791d6b39b75" />
+
 
 ### 2️⃣ 创建 GitHub 仓库
 | 仓库类型 | 示例链接 |
