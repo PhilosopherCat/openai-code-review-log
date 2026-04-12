@@ -39,6 +39,8 @@ APIHost: https://api.deepseek.com/v1/chat/completions
 作者：{{commit_author.DATA}} 
 说明：{{commit_message.DATA}}
 ```
+<img width="1172" height="1636" alt="image" src="https://github.com/user-attachments/assets/c94d4ba8-0187-42aa-b3d5-531f892a851d" />
+
 
 ## ⚙️ GitHub Actions 配置
 
